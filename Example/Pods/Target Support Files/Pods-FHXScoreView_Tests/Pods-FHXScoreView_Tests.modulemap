@@ -1,0 +1,6 @@
+framework module Pods_FHXScoreView_Tests {
+  umbrella header "Pods-FHXScoreView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

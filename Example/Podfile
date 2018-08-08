@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXScoreView_Example' do
+  pod 'FHXScoreView', :path => '../'
+
+  target 'FHXScoreView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

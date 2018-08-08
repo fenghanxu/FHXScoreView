@@ -1,0 +1,6 @@
+framework module FHXScoreView {
+  umbrella header "FHXScoreView-umbrella.h"
+
+  export *
+  module * { export * }
+}

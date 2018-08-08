@@ -1,0 +1,19 @@
+PODS:
+  - FHXScoreView (0.1.0):
+    - SnapKit
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - FHXScoreView (from `../`)
+
+EXTERNAL SOURCES:
+  FHXScoreView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXScoreView: bce93ff3a8a616140db5d94fe61039efa735a72f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 66f706b0058977c877f823461169566bb2e02142
+
+COCOAPODS: 1.4.0
